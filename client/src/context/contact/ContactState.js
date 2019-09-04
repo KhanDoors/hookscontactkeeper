@@ -34,7 +34,7 @@ const ContactState = props => {
         name: "john Smith",
         email: "john@cowboys.com",
         phone: "212-555-1214",
-        type: "personal"
+        type: "professional"
       }
     ]
   };
